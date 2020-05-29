@@ -2,7 +2,7 @@
 
 This is the Peer Graded Assignment for the Johns Hopkins University Getting and Cleaning Data 
 course offered via Coursera.
-For this assignment I used RStudio with R version 3.3.1 (2016-06-21).
+
 The submission for this assignment contains an R script which produces two independently tidy 
 datasets, a codebook describing all relevnet info, and this readme file.
 
